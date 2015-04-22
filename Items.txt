@@ -1,5 +1,7 @@
 Pickaxes, axes, hoes, shovels and swords
+
 Flint and Steel
+
 Apple
 Carrot
 Potato
